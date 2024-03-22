@@ -21,7 +21,7 @@ Simple task manager in **React**
 
 ## Screenshot
 
-![screenshot](https://github.com/Ripper-No-Chart/Task-Manager/blob/master/src/public/img/print.png)
+![screenshot](https://github.com/JThungu/Task-Manager/master/src/public/img/print.png)
 
 ### Author
 

@@ -21,7 +21,7 @@ Simple task manager in **React**
 
 ## Screenshot
 
-![screenshot](https://github.com/JThungu/My_Task_Manager/master/src/public/img/print.png)
+![screenshot](https://github.com/JThungu/My_Task_Manager/blob/master/src/public/img/print.png)
 
 ### Author
 
